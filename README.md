@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **completing a 2 year frontend development education at Noroff**
 - 🌱 I have been learning about **React, workflow (Jest and Cypress), CSS frameworks (SASS, bootstrap), HTML etc**
 - 👨‍💻 My second year projects are available at [https://shimmering-squirrel-c9eed7.netlify.app/](https://shimmering-squirrel-c9eed7.netlify.app/)
-- 📚 Check out my first year projects at https://dreamy-klepon-fd057b.netlify.app/
+- 📚 First year projects at https://dreamy-klepon-fd057b.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
